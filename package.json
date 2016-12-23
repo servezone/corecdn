@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "cdn layer for servezone stack",
   "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "scripts": {
     "test": "(npmts)"
   },
