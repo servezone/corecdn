@@ -1,6 +1,6 @@
 {
   "name": "corecdn",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "cdn layer for servezone stack",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
