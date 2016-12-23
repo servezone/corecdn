@@ -1,0 +1,19 @@
+{
+  "name": "corecdn",
+  "version": "1.0.0",
+  "description": "cdn layer for servezone stack",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "(npmts)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/servezone/corecdn.git"
+  },
+  "author": "Lossless GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/servezone/corecdn/issues"
+  },
+  "homepage": "https://gitlab.com/servezone/corecdn#README"
+}
