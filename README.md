@@ -2,10 +2,10 @@
 cdn layer for servezone stack
 
 ## Availabililty
-[![npm](https://push.rocks/assets/repo-button-npm.svg)](https://www.npmjs.com/package/corecdn)
-[![git](https://push.rocks/assets/repo-button-git.svg)](https://GitLab.com/servezone/corecdn)
-[![git](https://push.rocks/assets/repo-button-mirror.svg)](https://github.com/servezone/corecdn)
-[![docs](https://push.rocks/assets/repo-button-docs.svg)](https://servezone.gitlab.io/corecdn/)
+[![npm](https://servezone.gitlab.io/assets/repo-button-npm.svg)](https://www.npmjs.com/package/corecdn)
+[![git](https://servezone.gitlab.io/assets/repo-button-git.svg)](https://GitLab.com/servezone/corecdn)
+[![git](https://servezone.gitlab.io/assets/repo-button-mirror.svg)](https://github.com/servezone/corecdn)
+[![docs](https://servezone.gitlab.io/assets/repo-button-docs.svg)](https://servezone.gitlab.io/corecdn/)
 
 ## Status for master
 [![build status](https://GitLab.com/servezone/corecdn/badges/master/build.svg)](https://GitLab.com/servezone/corecdn/commits/master)
@@ -21,4 +21,4 @@ cdn layer for servezone stack
 ## Usage
 Use TypeScript for best in class instellisense.
 
-[![npm](https://push.rocks/assets/repo-header.svg)](https://push.rocks)
+[![npm](https://servezone.gitlab.io/assets/repo-header.svg)](https://push.rocks)
