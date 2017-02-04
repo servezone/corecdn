@@ -21,4 +21,4 @@ cdn layer for servezone stack
 ## Usage
 Use TypeScript for best in class instellisense.
 
-[![npm](https://servezone.gitlab.io/assets/repo-header.svg)](https://push.rocks)
+[![npm](https://servezone.gitlab.io/assets/repo-footer.svg)](https://push.rocks)
